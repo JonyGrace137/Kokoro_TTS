@@ -91,7 +91,7 @@ The system includes 31 different voices across various categories:
 
 The project uses the latest Kokoro model from Hugging Face:
 - Repository: [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
-- Model file: `**kokoro-v1_0.pth**` (download from Hugging face using ` https://huggingface.co/hexgrad/Kokoro-82M/blob/main/kokoro-v1_0.pth` )
+- Model file: `kokoro-v1_0.pth` (download from Hugging face using `https://huggingface.co/hexgrad/Kokoro-82M/blob/main/kokoro-v1_0.pth` )
 - Sample rate: 24kHz
 - Voice files: Located in the `voices/` directory (downloaded automatically)
 - Available voices: 31 voices across multiple categories
